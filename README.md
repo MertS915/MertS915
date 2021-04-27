@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MertS915
+- 👀 I’m interested in Mobile App Developing. 
+- 🌱 I’m currently learning Java, React, Flutter and more..
